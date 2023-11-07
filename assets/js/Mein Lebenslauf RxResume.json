@@ -1,0 +1,483 @@
+{
+    "basics": {
+        "name": "Gurvan Meunier",
+        "email": "praktikum.gurv@nmeunier.com",
+        "phone": "🇫🇷+33651175118  🇩🇪+4915224615834",
+        "photo": {
+            "url": "",
+            "filters": {
+                "size": 128,
+                "shape": "square",
+                "border": false,
+                "grayscale": false
+            },
+            "visible": true
+        },
+        "summary": "# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <title>Hello World!</title>",
+        "website": "",
+        "headline": "Webentwickler und mobiles internets",
+        "location": {
+            "city": "",
+            "region": "",
+            "address": "",
+            "country": "France / Germany",
+            "postalCode": ""
+        },
+        "profiles": [],
+        "birthdate": ""
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "class Beruflicher Werdegang{",
+            "type": "work",
+            "items": [
+                {
+                    "id": "6252e0d1-d358-4f46-85e8-b27d9e341c2d",
+                    "url": "",
+                    "date": {
+                        "end": "2018-11-30",
+                        "start": "2012-01-01"
+                    },
+                    "name": "function Softwareprüfer(){",
+                    "summary": "CinéDigital Manager Software-Tester von CinéDigital Service unter realen Bedingungen innerhalb des le Club Kino. }",
+                    "position": "//Ciné Digital Service (Frankreich)"
+                },
+                {
+                    "id": "bae4fab7-5af2-4ffc-a82b-90e00ea20abf",
+                    "url": "",
+                    "date": {
+                        "end": "2018-11-30",
+                        "start": "2009-06-01"
+                    },
+                    "name": "function Technischer Leiter für Filmvorführung / Filmvorführer(){",
+                    "summary": "Verwaltung der Kabinenprogrammierung und Digitalanzeigen.\n\nWartung der digitalen und 35-mm-Filmprojektionsgeräte und des Soundsystems.\n\nWartung des Kinonetzwerks und der Computerausrüstung.\n\nVerwaltung des Empfangs, der Lagerung und des Versands von KDM, Spulen- und Digitalfilmen.\n\nKontrolle der ordnungsgemäßen Funktion der Filmprojektionsgeräte während der Vorführungen.}",
+                    "position": "//Le Club (Mitarbaiter) / Ciné-Dol (Freiwillige) (Frankreich)"
+                },
+                {
+                    "id": "248e8e6c-e6cb-45ea-a61f-ca4d844517ca",
+                    "url": "",
+                    "date": {
+                        "end": "2010-01-31",
+                        "start": "2005-01-01"
+                    },
+                    "name": "function IT-Netzwerktechniker(){",
+                    "summary": "Installation, Verwaltung und Wartung von Netzwerken, Datenkommunikationsgeräten und vernetzten Geräten.\n\nAnalyse und Lösung von Netzwerkproblemen.\n\nWartung und Montage von Computergeräten.\n\nKundendienst.}",
+                    "position": "//Newtek informatique (Frankreich)"
+                },
+                {
+                    "id": "921a4f9c-66f0-4836-9909-cbe735c861bb",
+                    "url": "",
+                    "date": {
+                        "end": "2004-04-30",
+                        "start": "2003-11-01"
+                    },
+                    "name": "function IT-Netzwerktechniker (Praktikum){",
+                    "summary": "Verwaltung lokaler Netzwerke\n\nWartung lokaler Netzwerke\n\nWartung der Computerausrüstung}",
+                    "position": "//Félix Informatique / New-Tek Informatique (Frankreich)"
+                },
+                {
+                    "id": "6cb5912a-9a9b-46ce-a0a3-16fa5f37628e",
+                    "url": "",
+                    "date": {
+                        "end": "2003-05-05",
+                        "start": "2003-04-01"
+                    },
+                    "name": "function Trainer für digitale Kompetenz (Freiwilliger){",
+                    "summary": "Einführung in die Verwendung von Computer- und Bürowerkzeugen.\n\nEinführung in die Computerwartung.\n\nIT-Beratung für Einzelpersonen.\n\nWartung von Computerstationen.\n\nFehlerbehebung und Installation für Einzelpersonen}",
+                    "position": "//CPEC Formation Informatique St-Malo (Frankreich)"
+                },
+                {
+                    "id": "b6b1b041-782a-4ad0-8a5b-fdd2cc1ea6de",
+                    "url": "",
+                    "date": {
+                        "end": "2002-09-30",
+                        "start": "2001-08-01"
+                    },
+                    "name": "function Teamleiter(){",
+                    "summary": "Verwaltung der Konformität bei SAGEM DECT-Schnurlostelefonen\n\nVerwaltung des Empfangs und Versands von elektronischen Karten und Komponenten für SAGEM DECT-Schnurlostelefonen\n\nFehlerbehebung bei SAGEM DECT-Schnurlostelefonen\n\nUmwandlung eines MINOLTA-Druckers in einen SAGEM-Fax- / Scannerdrucker\n\nDAEWOO Computer Fehlerbehebung}}",
+                    "position": "//DITEK électronique (Frankreich)"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "education": {
+            "id": "education",
+            "name": "Ausbildung To-Do-Liste",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "b57e3743-7151-4bfb-820b-191615aa8b75",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2023-01-01",
+                        "start": "2023-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "☐ - Berufsbezeichnung Webentwickler und mobiles internets ■■□□□□□"
+                },
+                {
+                    "id": "da243bbd-99e7-4b8b-a7ed-5db3f7db7005",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2017-01-01",
+                        "start": "2017-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "✓ - Erweiterte Wartung von Projektionsgeräten"
+                },
+                {
+                    "id": "579c6334-6c0f-4073-8116-fad7a5a8e09f",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2011-01-01",
+                        "start": "2011-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "✓ - Befähigungsnachweises Filmvorführer"
+                },
+                {
+                    "id": "7eaa3b72-3832-4aae-9925-dad302b19edf",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2004-01-01",
+                        "start": "2004-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "✓ - IT-Netzwerktechniker"
+                },
+                {
+                    "id": "0f399989-9fad-4abb-b2a9-0ede431ab433",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2001-01-01",
+                        "start": "2001-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "✗ - Wirtschaftsinformatiker Abitur"
+                },
+                {
+                    "id": "35d81534-f825-409b-bc2b-287fab61d249",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2000-01-01",
+                        "start": "2000-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "✓ - BEP (Berufsfachdiplom) Buchhaltung"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [],
+            "columns": 1,
+            "visible": true
+        },
+        "languages": {
+            "id": "languages",
+            "name": "<Sprachen",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "a976877a-7d15-4a64-a38e-2832f44bb5ef",
+                    "name": "Französisch=",
+                    "level": "\"Mutterspracher\"",
+                    "levelNum": 10
+                },
+                {
+                    "id": "8461b044-74dd-4d2d-8906-ef634cc573fc",
+                    "name": "Englisch=",
+                    "level": "\"B1 : Unabhängigestufe\"",
+                    "levelNum": 3
+                },
+                {
+                    "id": "8d31d256-a7ee-40d4-918b-181a0747ca28",
+                    "name": "Deutsch=",
+                    "level": "\"A1 : Grundstufe\" />",
+                    "levelNum": 1
+                },
+                {
+                    "id": "3ea050be-2197-4a20-81f8-9083a50be9dc",
+                    "name": " ",
+                    "level": " ",
+                    "levelNum": 0
+                },
+                {
+                    "id": "61026b4d-51b5-4b87-9e1c-95dd4b56f79b",
+                    "name": " ",
+                    "level": " ",
+                    "levelNum": 0
+                },
+                {
+                    "id": "52a48318-1675-4da5-b18a-6ce3b19df20b",
+                    "name": " ",
+                    "level": " ",
+                    "levelNum": 0
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "#Persönlichkeit",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "4cfe8074-f62a-4530-955c-d7dcd1933036",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "summary": "#Spontan  #Kooperative  #Ausdauernd\n\n#Einfühlsam  #Hilfreich  #Gesellig\n\n#Autonom  #Neugieriger  #Erfinderisch",
+                    "position": " ",
+                    "organization": " "
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "references": {
+            "id": "references",
+            "name": "References",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "publications": {
+            "id": "publications",
+            "name": "Publications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "certifications": {
+            "id": "certifications",
+            "name": "E-Learning",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "9094f1d1-a90d-4676-8e52-c273f4ac659d",
+                    "url": "",
+                    "date": "",
+                    "name": "PYTHON 3 : Von den Grundlagen bis zu fortgeschrittenen Konzepten",
+                    "issuer": "COURSERA - Université Côte d'Azur",
+                    "summary": ""
+                },
+                {
+                    "id": "3b4e1ff0-2bde-45dd-afbe-15556af7437e",
+                    "url": "",
+                    "date": "",
+                    "name": "Einführung in OOP (C++, JAVA)",
+                    "issuer": "COURSERA - EPFL de Lausanne",
+                    "summary": ""
+                },
+                {
+                    "id": "61aabecc-235c-44e4-a23f-7560535bc45f",
+                    "url": "",
+                    "date": "",
+                    "name": "Einführung in HTML5, CCS3, JS",
+                    "issuer": "Fun-MOOC INSA",
+                    "summary": ""
+                },
+                {
+                    "id": "435785ef-8978-475b-a86f-12600ab1282d",
+                    "url": "",
+                    "date": "",
+                    "name": " ",
+                    "issuer": " ",
+                    "summary": " "
+                },
+                {
+                    "id": "8dafd8e0-1b5a-452a-a8bd-4c57d5824a5d",
+                    "url": "",
+                    "date": "",
+                    "name": " ",
+                    "issuer": " ",
+                    "summary": " "
+                },
+                {
+                    "id": "0fd76c43-de86-47f6-a9c6-991971777581",
+                    "url": "",
+                    "date": "",
+                    "name": " ",
+                    "issuer": " ",
+                    "summary": " "
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "a2510801-8285-474c-aa17-5db86902e80b": {
+            "name": "Beweglichkeit",
+            "type": "custom",
+            "items": [
+                {
+                    "id": "a3ccdbfc-c987-4ba4-be5d-5cb607f86964",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "level": "",
+                    "title": " ",
+                    "summary": "Führerscheinklasse B, Persönliches Auto",
+                    "keywords": [],
+                    "levelNum": 0,
+                    "subtitle": ""
+                },
+                {
+                    "id": "5e989576-5dcd-41e4-b55c-86ff3e4b21e9",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "level": "",
+                    "title": " ",
+                    "summary": "",
+                    "keywords": [],
+                    "levelNum": 0,
+                    "subtitle": ""
+                },
+                {
+                    "id": "eeeb192e-ed1a-4ef2-81c3-5750f1cedb60",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "level": "",
+                    "title": " ",
+                    "summary": "",
+                    "keywords": [],
+                    "levelNum": 0,
+                    "subtitle": ""
+                },
+                {
+                    "id": "0a010a0a-bf37-4276-9c91-1821cbfaba58",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "level": "",
+                    "title": " ",
+                    "summary": "",
+                    "keywords": [],
+                    "levelNum": 0,
+                    "subtitle": ""
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "/* Enter custom CSS here */\n\n* {\n    outline: 1px solid #000;\n}",
+            "visible": false
+        },
+        "date": {
+            "format": "YYYY"
+        },
+        "page": {
+            "format": "A4"
+        },
+        "theme": {
+            "text": "#000000",
+            "primary": "#4896d5",
+            "background": "#ffffff"
+        },
+        "layout": [
+            [
+                [
+                    "work",
+                    "education",
+                    "projects",
+                    "references"
+                ],
+                [
+                    "a2510801-8285-474c-aa17-5db86902e80b",
+                    "languages",
+                    "certifications",
+                    "volunteer",
+                    "interests",
+                    "skills",
+                    "awards",
+                    "publications"
+                ]
+            ]
+        ],
+        "locale": "en",
+        "template": "glalie",
+        "typography": {
+            "size": {
+                "body": 12,
+                "heading": 28
+            },
+            "family": {
+                "body": "Albert Sans",
+                "heading": "Open Sans"
+            }
+        }
+    },
+    "public": false
+}

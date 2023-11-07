@@ -1,0 +1,459 @@
+{
+    "basics": {
+        "name": "Gurvan Meunier",
+        "email": "stage.gurv@nmeunier.com",
+        "phone": "🇫🇷+33651175118",
+        "photo": {
+            "url": "",
+            "filters": {
+                "size": 128,
+                "shape": "square",
+                "border": false,
+                "grayscale": false
+            },
+            "visible": true
+        },
+        "summary": "# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <title>Hello World!</title>",
+        "website": "",
+        "headline": "Développeur Web et Web Mobile",
+        "location": {
+            "city": "Bourges",
+            "region": "",
+            "address": "",
+            "country": "France",
+            "postalCode": ""
+        },
+        "profiles": [],
+        "birthdate": ""
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "class Expériences professionnelles et associatives{",
+            "type": "work",
+            "items": [
+                {
+                    "id": "48d25482-2063-4e1d-8587-757808564acb",
+                    "url": "",
+                    "date": {
+                        "end": "2018-11-30",
+                        "start": "2012-01-01"
+                    },
+                    "name": "Testeur de logiciel(){",
+                    "summary": "Testeur du logiciel CinéDigital Manager de CinéDigital Service en situation de production au sein du Cinéma le club}",
+                    "position": "//Ciné Digital Service (La Chapelle-sur-Erdre - 44)"
+                },
+                {
+                    "id": "1e7ed920-95fd-42d8-91bb-20e9fbe90d15",
+                    "url": "",
+                    "date": {
+                        "end": "2018-11-30",
+                        "start": "2009-06-01"
+                    },
+                    "name": "function Responsable technique / Opérateur Projectionniste(){",
+                    "summary": "Gestion de la programmation cabine et afficheurs numériques\n\nMaintenance du matériel de projection cinématographique\n\nMaintenance du réseau et du matériel informatique du cinéma\n\nGestion de la réception, du stockage et de l’expédition des films 35mm, DCP, et KDM\n\nContrôle du bon fonctionnement du matériel de projection cinématographique en séance}",
+                    "position": "//Le Club Fougères / Ciné-Dol (de Bretagne - 35)"
+                },
+                {
+                    "id": "cb0742c0-7df4-4c8d-9c78-0f0917c962f8",
+                    "url": "",
+                    "date": {
+                        "end": "2010-01-30",
+                        "start": "2005-01-01"
+                    },
+                    "name": "function Technicien réseaux informatique et bureautique(){",
+                    "summary": "Installation, gestion et entretien de réseaux, d'équipements de communication de données et de dispositifs réseau\n\nAnalyse et résolution de problèmes de réseaux\n\nMaintenance et assemblage de matériels informatiques}",
+                    "position": "//‎‎‎‎‎‎‎‎‎‎Newtek informatique (St-Malo - 35)"
+                },
+                {
+                    "id": "ad511755-bc6e-4575-9b89-6cbaa2b0412f",
+                    "url": "",
+                    "date": {
+                        "end": "2024-04-30",
+                        "start": "2003-11-01"
+                    },
+                    "name": "function Technicien de maintenance réseaux informatiques(stage){",
+                    "summary": "Administration de réseaux locaux\n\nMaintenance de réseaux locaux\n\nMaintenance, assemblage, préparation et dépannage de matériels informatiques}",
+                    "position": "//Félix Informatique / New-Tek Informatique (Rennes / St-Malo - 35)"
+                },
+                {
+                    "id": "35ee102f-aa87-481f-bdac-3bdb47a67871",
+                    "url": "",
+                    "date": {
+                        "end": "2003-05-31",
+                        "start": "2003-04-01"
+                    },
+                    "name": "function Formateur numérique (Bénévole){",
+                    "summary": "Initiation aux particuliers à l'usage des outils informatiques et bureautiques\n\nInitiation à la maintenance informatique\n\nConseils en informatique pour particuliers\n\nDépannage et installation pour particuliers}",
+                    "position": "//CPEC Formation Informatique (St-Malo - 35)"
+                },
+                {
+                    "id": "9e7708e0-0201-422a-8323-7b0302163102",
+                    "url": "",
+                    "date": {
+                        "end": "2002-09-30",
+                        "start": "2001-08-01"
+                    },
+                    "name": "function Responsable d'équipe(){",
+                    "summary": "Gestion de la remise en conformité de téléphone sans fil DECT SAGEM\n\nGestion de la réception de et de l'expédition de cartes et composants électronique pour téléphone sans-fil DECT SAGEM\n\nDépannage de téléphone sans fil DECT SAGEM\n\nTransformation de d'imprimante MINOLTA en imprimante pour Fax/Scanner SAGEM\n\nDépannage d'ordinateur DAEWOO } }",
+                    "position": "//DITEK électronique (Dinan - 22)"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "education": {
+            "id": "education",
+            "name": "Education To-Do-List",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "f4e3466d-2183-4f80-9ed1-6a2de8fa1d43",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2024-01-01",
+                        "start": ""
+                    },
+                    "score": "",
+                    "degree": "☐ - Titre Professionnel Développeur Web et Web mobile - IN PROGRESS ■□□□□□",
+                    "courses": [],
+                    "summary": "",
+                    "institution": " "
+                },
+                {
+                    "id": "34aebe2a-58ee-45dc-8ea8-7c9413a7573f",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2017-01-01",
+                        "start": "2017-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "✓ - Maintenance avancée des matériels de projection cinématographique"
+                },
+                {
+                    "id": "44c9bc19-a0d8-4dad-ab4f-280cbc4d8fe5",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2011-01-01",
+                        "start": "2011-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "✓ - Opérateur projectionniste de cinéma"
+                },
+                {
+                    "id": "352ab841-bc62-47c9-8825-f9212516e49f",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2004-01-01",
+                        "start": "2004-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "✓ - Technicien de maintenance informatique de réseau"
+                },
+                {
+                    "id": "0d80221c-bcf4-4eb8-8f2d-353d9ab3d583",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2001-01-01",
+                        "start": "2001-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "✗ - Niveau 1ère STT GESTION INFORMATIQUE"
+                },
+                {
+                    "id": "b50a9f60-2834-4aa7-be3c-f985d00ecc20",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2000-01-01",
+                        "start": "2000-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "✓ - BEP Comptabilité"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [
+                {
+                    "name": " ",
+                    "keywords": [
+                        "Linux",
+                        "Devuan",
+                        "Urbex",
+                        "Python",
+                        "Arduino",
+                        "Cooking",
+                        "Casse-Tête",
+                        "Flipper",
+                        "Fallout",
+                        "Portal",
+                        "RaspΠ",
+                        "Regex",
+                        "CSS",
+                        "Deutschland",
+                        "OSInt",
+                        "LineageOS",
+                        "HackerSpace"
+                    ],
+                    "id": "7e3754f8-80d5-41a4-86d2-4c33d3c684b5"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "languages": {
+            "id": "languages",
+            "name": "Langues",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "0ea8a6ef-260e-4b73-ab53-ded1d75f80e8",
+                    "name": "Anglais=",
+                    "level": "\"B1 : Niveau indépendant\"",
+                    "levelNum": 0
+                },
+                {
+                    "id": "00717952-ccd3-4d7b-ab48-61e31a9f318e",
+                    "name": "Allemand=",
+                    "level": "\"A1 : Niveau élémentaire\" />",
+                    "levelNum": 0
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "Atouts",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "755fc896-716e-4238-9351-3400cbbc21ae",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "summary": "#Spontané #Coopératif #Persévérant\n\n#Empathique #Serviable #Sociable\n\n#Autonome #Curieux #Inventif",
+                    "position": " ",
+                    "organization": " "
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "references": {
+            "id": "references",
+            "name": "References",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "publications": {
+            "id": "publications",
+            "name": "Publications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "certifications": {
+            "id": "certifications",
+            "name": "Auto-formations",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "f48de590-beff-4f51-95ff-0639dce95f22",
+                    "url": "",
+                    "date": "",
+                    "name": "PYTHON 3 : Des fondamentaux aux concepts avacés du langage",
+                    "issuer": "COURSERA - Université Côte d'Azur",
+                    "summary": ""
+                },
+                {
+                    "id": "6579537c-4c24-4205-89db-41142226cc20",
+                    "url": "",
+                    "date": "",
+                    "name": "Programmation orientée objet (C++, JAVA)",
+                    "issuer": "COURSERA - EPFL de Lausanne",
+                    "summary": ""
+                },
+                {
+                    "id": "e9792433-df07-4131-8c27-ea9afaa69685",
+                    "url": "",
+                    "date": "",
+                    "name": "Introduction à HTML5 CCS3 et JS",
+                    "issuer": "Fun-MOOC INSA",
+                    "summary": ""
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "f2912fc0-1489-4556-8cf4-bff52b79cdd8": {
+            "name": "Mobilité",
+            "type": "custom",
+            "items": [
+                {
+                    "id": "d86fd7fb-973c-4cca-aa80-69f455796232",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "level": "",
+                    "title": " ",
+                    "summary": "Permis B, Véhicule personnel",
+                    "keywords": [],
+                    "levelNum": 0,
+                    "subtitle": ""
+                },
+                {
+                    "id": "dc8795f4-64e2-4099-adbb-874cdc011145",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "level": "",
+                    "title": " ",
+                    "summary": "",
+                    "keywords": [],
+                    "levelNum": 0,
+                    "subtitle": ""
+                },
+                {
+                    "id": "d29d5a36-6352-47dd-b2da-3847444c4a81",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "level": "",
+                    "title": " ",
+                    "summary": "",
+                    "keywords": [],
+                    "levelNum": 0,
+                    "subtitle": ""
+                },
+                {
+                    "id": "bb60e064-b3b8-47ff-9f34-921dc3c567a9",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "level": "",
+                    "title": " ",
+                    "summary": "",
+                    "keywords": [],
+                    "levelNum": 0,
+                    "subtitle": ""
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "/* Enter custom CSS here */\n\n* {\n    outline: 1px solid #000;\n}",
+            "visible": false
+        },
+        "date": {
+            "format": "YYYY"
+        },
+        "page": {
+            "format": "A4"
+        },
+        "theme": {
+            "text": "#000000",
+            "primary": "#3f51b5",
+            "background": "#ffffff"
+        },
+        "layout": [
+            [
+                [
+                    "work",
+                    "education",
+                    "projects",
+                    "references"
+                ],
+                [
+                    "f2912fc0-1489-4556-8cf4-bff52b79cdd8",
+                    "languages",
+                    "certifications",
+                    "volunteer",
+                    "interests",
+                    "awards",
+                    "skills",
+                    "publications"
+                ]
+            ]
+        ],
+        "locale": "en",
+        "template": "glalie",
+        "typography": {
+            "size": {
+                "body": 12,
+                "heading": 28
+            },
+            "family": {
+                "body": "Albert Sans",
+                "heading": "Open Sans"
+            }
+        }
+    },
+    "public": false
+}

@@ -1,0 +1,412 @@
+{
+    "basics": {
+        "name": "Gurvan Meunier",
+        "email": "internship.gurv@nmeunier.com",
+        "phone": "🇫🇷+33651175118 🇩🇪+4915224615834",
+        "photo": {
+            "url": "",
+            "filters": {
+                "size": 128,
+                "shape": "square",
+                "border": false,
+                "grayscale": false
+            },
+            "visible": true
+        },
+        "summary": "# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <title>Hello World!</title>",
+        "website": "",
+        "headline": "Web & mobile web developper",
+        "location": {
+            "city": "",
+            "region": "",
+            "address": "",
+            "country": "France / Germany ",
+            "postalCode": ""
+        },
+        "profiles": [],
+        "birthdate": ""
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "class Work & volunteer  Experience{",
+            "type": "work",
+            "items": [
+                {
+                    "id": "29838746-d7fa-460b-995e-6ce59a3eb036",
+                    "url": "",
+                    "date": {
+                        "end": "2018-11-30",
+                        "start": "2012-01-01"
+                    },
+                    "name": "function Software tester(){",
+                    "summary": "Tester of the CinéDigital Manager software powered by CinéDigital Service in a production situation within Le Club theater}",
+                    "position": "//Ciné Digital Service (France)"
+                },
+                {
+                    "id": "ae44f173-7011-4515-a731-6fbb8326d5b4",
+                    "url": "",
+                    "date": {
+                        "end": "2018-11-30",
+                        "start": "2009-06-01"
+                    },
+                    "name": "function Projection technical manager / Projection Operator(){",
+                    "summary": "Management of cabin programming and digital displays\n\nMaintenance of digital and 35mm cinematographic projection equipment and the sound system\n\nMaintenance of the cinema network and computer equipment\n\nManagement of the reception, storage and shipping of 35mm, DCP, and KDM films\n\nControl of the proper functioning of the cinematographic projection equipment during the screenings}",
+                    "position": "//Cinéma Le Club (Employee) / Cinéma Ciné Dol (Volunteer) (France)"
+                },
+                {
+                    "id": "18d9c782-77fd-4afe-9f2a-b434882d5b7a",
+                    "url": "",
+                    "date": {
+                        "end": "2010-01-31",
+                        "start": "2005-01-01"
+                    },
+                    "name": "function ICT network and system technician(){",
+                    "summary": "Installation, management and maintenance of networks, data communication equipment and networked devices\n\nAnalysis and resolution of network problems\n\nMaintenance and assembly of computer equipment.Customer Support}",
+                    "position": "//Newtek informatique St-Malo (France)"
+                },
+                {
+                    "id": "41c9a8a9-3ef1-43c3-9cb0-22391daab3b5",
+                    "url": "",
+                    "date": {
+                        "end": "2004-04-30",
+                        "start": "2003-11-01"
+                    },
+                    "name": "function ICT technician (Internship){",
+                    "summary": "Administration of local networks\n\nMaintenance of local networks\n\nMaintenance, assembly, preparation and troubleshooting of computer equipment}",
+                    "position": "//Félix Informatique / New-Tek Informatique (France)"
+                },
+                {
+                    "id": "014eb90c-2f79-4ba1-8115-9620faedd872",
+                    "url": "",
+                    "date": {
+                        "end": "2003-05-31",
+                        "start": "2003-04-01"
+                    },
+                    "name": "function Digital literacy teacher (Volunteer){",
+                    "summary": "Initiation to individuals in the use of computer and office tools\n\nIntroduction to computer maintenance\n\nIT advice for individuals\n\nMaintenance of computer stations\n\nTroubleshooting and installation for individuals}",
+                    "position": "//CPEC Formation Informatique (France)"
+                },
+                {
+                    "id": "896fbede-8981-42df-9edf-f50576811969",
+                    "url": "",
+                    "date": {
+                        "end": "2002-09-30",
+                        "start": "2001-08-01"
+                    },
+                    "name": "function Team leader(){",
+                    "summary": "Management of the compliance of DECT SAGEM cordless telephone\n\nManagement of the receipt and dispatch of electronic cards and components for SAGEM DECT cordless telephones\n\nSAGEM DECT cordless telephone troubleshooting\n\nConversion of a MINOLTA printer into a SAGEM fax / scanner printer\n\nDAEWOO computer troubleshooting } }",
+                    "position": "//DITEK électronique (France)"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [],
+            "columns": 1,
+            "visible": false
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "education": {
+            "id": "education",
+            "name": "Education To-Do-List",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "8c626870-c37a-4acf-9ea6-4f3b29747b4b",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2024-01-01",
+                        "start": "2024-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "☐ - Professional credential as Web and mobile web developper ■□□□□□"
+                },
+                {
+                    "id": "ebd44600-1c77-42f6-a666-505fab9dd359",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2017-01-01",
+                        "start": "2017-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "✓ - Advanced maintenance of digital film projection equipment"
+                },
+                {
+                    "id": "4fb7cdc3-7301-45c7-8850-2caa63a44061",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2011-01-01",
+                        "start": "2011-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "✓ - CAP (Technical School Certificate) film projectionist operator"
+                },
+                {
+                    "id": "017a93be-c128-41c0-ad9a-4532b98a75e4",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2004-01-01",
+                        "start": "2004-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "✓ - Network IT technician"
+                },
+                {
+                    "id": "97e30da0-5bd3-4465-9ffa-a610bf1669d4",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2001-01-01",
+                        "start": "2001-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "✗ - Bachelor's degree in business computing"
+                },
+                {
+                    "id": "8ab35204-ab0b-4109-803a-bf41eeff0d54",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2000-01-01",
+                        "start": "2000-01-01"
+                    },
+                    "score": "",
+                    "degree": " ",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "✓ - BEP (Technical School Certificate) Accountant"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "3e8e34e0-5927-40e0-af1f-8accbe62f5f8",
+                    "name": "Python",
+                    "keywords": [
+                        "test de keyword très très long pour voir le resultat obtenu apères avoir écit n'importe quoi "
+                    ]
+                },
+                {
+                    "id": "62f5cdcd-3870-493c-85e1-265ec9212747",
+                    "name": "no",
+                    "keywords": []
+                }
+            ],
+            "columns": 1,
+            "visible": false
+        },
+        "languages": {
+            "id": "languages",
+            "name": "<Languages",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "800b84ce-7cb4-40fe-9c0d-cac80aa0878a",
+                    "name": "French=",
+                    "level": "\"Mother tongue\"",
+                    "levelNum": 10
+                },
+                {
+                    "id": "9437d8c6-324d-4058-ba01-db0c524c7e4b",
+                    "name": "English=",
+                    "level": "\"B1 - Independant\"",
+                    "levelNum": 3
+                },
+                {
+                    "id": "f0ba8bb2-a7b8-4518-bf9e-a4e41d0f1abf",
+                    "name": "German=",
+                    "level": "\"A1 - Beginner\" />",
+                    "levelNum": 1
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "#Assests",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "65a644a5-dba5-44c4-a76c-0ed6710cdbad",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "summary": "#Spontaneous &nbsp;&nbsp;&nbsp; #Empathic &nbsp;&nbsp;&nbsp; #Curious\n\n#Collaborative &nbsp;&nbsp;&nbsp;&nbsp; #Helpful &nbsp;&nbsp;&nbsp; #Inventive\n\n#Perseverant &nbsp; #Social &nbsp; #Self-contained",
+                    "position": " ",
+                    "organization": " "
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "references": {
+            "id": "references",
+            "name": "References",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "publications": {
+            "id": "publications",
+            "name": "Publications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "certifications": {
+            "id": "certifications",
+            "name": "E-Learning",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "1c86e28f-87c3-4692-9f95-a685a8aa0bab",
+                    "url": "",
+                    "date": "",
+                    "name": "PYTHON 3 : From basics to advanced language concepts",
+                    "issuer": "COURSERA - Université Côte d'Azur",
+                    "summary": ""
+                },
+                {
+                    "id": "a4e44f0f-bb06-4060-ad16-a9750fca394b",
+                    "url": "",
+                    "date": "",
+                    "name": "Introduction to OOP (C++, JAVA)",
+                    "issuer": "COURSERA - EPFL de Lausanne",
+                    "summary": ""
+                },
+                {
+                    "id": "13678b50-bbf3-42c0-80d1-7e975973a535",
+                    "url": "",
+                    "date": "",
+                    "name": "Introduction to HTML5, CCS3, JS",
+                    "issuer": "Fun-MOOC INSA",
+                    "summary": ""
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "89b574eb-1c00-4f72-a0ad-bb863e39a2a2": {
+            "name": "Mobility",
+            "type": "custom",
+            "items": [
+                {
+                    "id": "444ae79b-c94f-49db-928d-150b9abc7f0e",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "level": "",
+                    "title": " ",
+                    "summary": "B driver licence, Personal car",
+                    "keywords": [],
+                    "levelNum": 0,
+                    "subtitle": ""
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "/* Enter custom CSS here */\n\n* {\n    outline: 1px solid #000;\n}",
+            "visible": false
+        },
+        "date": {
+            "format": "YYYY"
+        },
+        "page": {
+            "format": "A4"
+        },
+        "theme": {
+            "text": "#000000",
+            "primary": "#03a9f4",
+            "background": "#ffffff"
+        },
+        "layout": [
+            [
+                [
+                    "work",
+                    "education",
+                    "skills",
+                    "projects",
+                    "references"
+                ],
+                [
+                    "89b574eb-1c00-4f72-a0ad-bb863e39a2a2",
+                    "languages",
+                    "certifications",
+                    "volunteer",
+                    "interests",
+                    "publications",
+                    "awards"
+                ]
+            ]
+        ],
+        "locale": "en",
+        "template": "glalie",
+        "typography": {
+            "size": {
+                "body": 12,
+                "heading": 28
+            },
+            "family": {
+                "body": "Albert Sans",
+                "heading": "Open Sans"
+            }
+        }
+    },
+    "public": false
+}
